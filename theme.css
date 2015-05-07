@@ -80,6 +80,7 @@
 }
 div.CodeMirror-selected {
     background: #F8F8F2 !important;
+    color: #fff; !important;
 }
 .CodeMirror-gutters {
     background: #1c1c1c;
